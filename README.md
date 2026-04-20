@@ -11,3 +11,20 @@ All commands will be under the default prefix: `;` unless you have set a custom 
 ;unban (user) (reason)
 ;timeout (user) (duration) (reason)
 ```
+
+## Log
+```
+;log (type) (channel)
+```
+
+## setup
+```
+;setup join
+```
+
+## Fun
+```
+;steam (steamid)
+;dad
+```
+
