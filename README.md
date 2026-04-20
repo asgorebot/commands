@@ -2,8 +2,8 @@
 A list of commands for the bot Asgore
 
 # Prefix
-
-All commands will be under the default prefix: `;` unless you have set a custom prefix
+> [!WARNING] 
+> All commands will be under the default prefix: `;` unless you have set a custom prefix
 
 ## Moderation
 ```
