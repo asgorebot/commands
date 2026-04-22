@@ -3,7 +3,8 @@ A list of commands for the bot Asgore
 
 # Prefix
 > [!IMPORTANT] 
-> All commands will be under the default prefix: `;` unless you have set a custom prefix
+> All commands will be under the default prefix: `;` unless you have set a custom prefix.
+> Last updated: April 21st, 2026
 
 ## Setup
 ```
