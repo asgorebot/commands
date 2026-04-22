@@ -13,7 +13,7 @@ A list of commands for the bot Asgore
 ```
 ;customize banner set (url)
 ;customize banner reset
-;customize avatar set(url)
+;customize avatar set (url)
 ;customize avatar reset
 ;customize name set (name) - Max 32 characters
 ;customize name reset
